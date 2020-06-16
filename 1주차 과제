@@ -1,0 +1,44 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled2.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyPuQyMMi6HJhB77Mc4nHYlm",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/jjo1307/-/blob/master/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "HflVqP7vViRK",
+        "colab_type": "text"
+      },
+      "source": [
+        "인공지능 : SK텔레콤에서 개발한 인공지능 서비스 누구(NUGU)\n",
+        "\n",
+        "인지컴퓨팅 : IBM의 왓슨(Watson)\n",
+        "\n",
+        "머신러닝 : 아마존(Amazon) 세이지메이커(SageMaker)\n",
+        "\n",
+        "딥러닝 : 구글(Google) 알파고(AlphaGo)"
+      ]
+    }
+  ]
+}
